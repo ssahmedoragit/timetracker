@@ -41,7 +41,7 @@ The general installation procedure looks like this:
 UPGRADE FROM EARLIER VERSIONS
 
 See https://www.anuko.com/time-tracker/install-guide/upgrade.htm
-Good morning
+Good eveming
 
 
 BLANK PAGES IN TIME TRACKER
